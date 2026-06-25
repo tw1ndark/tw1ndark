@@ -26,7 +26,7 @@
           <li>I'm 13 years old, my birthday is the 14th of december—10 days after Bungou Stray Dogs published
           <li>I'm diagnosed with autism spectrum disorder ( type / level 3 ), non-organic psycosis disorder, and I'm in the process of getting evaulated for other potential diagnoses
           <li>I have short-term memory loss, the majority of my memories are dreamlike making it difficult for me to differentiate or remember people and more
-            <li>I have no DNI, just don't be an idiot. I block freely
+            <li>Anyone can interact with me, I block freely, and I don't care if it upsets you
       </details>
     </td>
     <td width="50%" valign="top" align="left">
