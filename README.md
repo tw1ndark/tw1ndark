@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tw1ndark&style=for-the-badge&label=souls+adrift&color=lightgrey" />
 </p> 
@@ -16,6 +17,7 @@
     <td width="50%" valign="top" align="left">
       <details>
         <summary><b>general information</b></summary>
+        <br>
         <ul>
           <li>I'm 13 years old, my birthday is the 14th of december—10 days after Bungou Stray Dogs released
           <li>I'm diagnosed with autism spectrum disorder ( type / level 3 ), non-organic psycosis disorder, and I'm in the process of getting evaulated for other potential diagnoses
