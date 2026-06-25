@@ -29,7 +29,11 @@
       <details>
         <summary><b>pony town</b></summary>
         <br>
-        Put your content for the second section here.
+        <ul>
+          <li>Cuddle&hug comfort, you're always welcome to come up to me, though I may not speak
+          <li>I'm diagnosed with autism spectrum disorder ( type / level 3 ), non-organic psycosis disorder, and I'm in the process of getting evaulated for other potential diagnoses
+          <li>I have short-term memory loss, all of my memories are dreamlike making it difficult for me to differentiate or remember people and more
+          <li>Anyone can interact, just keep yourself from romanticizing real life issues infront of me
       </details>
     </td>
   </tr>
