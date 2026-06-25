@@ -26,6 +26,7 @@
           <li>I'm 13 years old, my birthday is the 14th of december—10 days after Bungou Stray Dogs published
           <li>I'm diagnosed with autism spectrum disorder ( type / level 3 ), non-organic psycosis disorder, and I'm in the process of getting evaulated for other potential diagnoses
           <li>I have short-term memory loss, the majority of my memories are dreamlike making it difficult for me to differentiate or remember people and more
+            <li>I have no DNI, I block freely and I don't really care if you're upset
       </details>
     </td>
     <td width="50%" valign="top" align="left">
@@ -35,7 +36,6 @@
         <ul>
           <li>Cuddle&hug comfort, you're always welcome to sit with me—I just may not respond reliably
           <li>Whisper to interact. I’m mostly off-tab or semi-AFK, so I’ll miss most public chat messages. Don't be upset if it seems like I'm ignoring you
-          <li>Anyone can interact, just keep yourself from being an incompetent idiot infront of me. I block freely
       </details>
     </td>
   </tr>
