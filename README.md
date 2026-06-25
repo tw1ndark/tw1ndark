@@ -9,7 +9,7 @@
 <img src="https://github.com/user-attachments/assets/81da1dcf-68ee-4544-b835-48376cbfc613" width="450" align="left" />
 
 <p align="center">
-<sub>❝The corruption in Chuuya’s body had already disappeared. Dazai had nullified it. He placed a hand on Chuuya’s cheek where it had been punched and smirked slightly. “So this is how you wake Snow White? Kinda violent, don’t you think?”</sub>
+❝The corruption in Chuuya’s body had already disappeared. Dazai had nullified it. He placed a hand on Chuuya’s cheek where it had been punched and smirked slightly. “So this is how you wake Snow White? Kinda violent, don’t you think?”
 </p>
 
 <picture>
@@ -20,14 +20,13 @@
 
 <div align="center">
 <details>
-<summary><b><sub>general information</sub></b></summary>
+<summary><b>general information</b></summary>
 
-<sub>I'm 13 years old, my birthday is the 14th of december—10 days after Bungo Stray Dogs published</sub>
->
+I'm 13 years old, my birthday is the 14th of december—10 days after Bungo Stray Dogs published
 
-<sub>I'm diagnosed with autism spectrum disorder ( type / level 3 ), non-organic psychosis disorder, and I'm in the process of getting evaluated for other potential conditions</sub>
+I'm diagnosed with autism spectrum disorder ( type / level 3 ), non-organic psychosis disorder, and I'm in the process of getting evaluated for other potential conditions
 
-<sub>I have short-term memory loss, the majority of my memories are dreamlike making it difficult for me to differentiate or remember people and otherwise</sub>
+I have short-term memory loss, the majority of my memories are dreamlike making it difficult for me to differentiate or remember people and otherwise
 
 </details>
 </div>
