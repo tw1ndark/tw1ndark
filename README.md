@@ -30,7 +30,7 @@
         <br>
         <ul>
           <li>Cuddle&hug comfort, you're always welcome to sit with me—I may not always respond
-          <li>
+          <li>W2i, I'm mostly offtab, or semi-afk so I'll be missing most public chat messages, don't be upset if I'm 'ignoring' you
           <li>Anyone can interact, just keep yourself from being an incompetent idiot infront of me. I block freely
       </details>
     </td>
