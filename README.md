@@ -15,14 +15,14 @@
   <tr>
     <td width="50%" valign="top" align="left">
       <details>
-        <summary><b>Tips for collapsed sections 1</b></summary>
+        <summary><b>general information</b></summary>
         <br>
         Put your content for the first section here.
       </details>
     </td>
     <td width="50%" valign="top" align="left">
       <details>
-        <summary><b>Tips for collapsed sections 2</b></summary>
+        <summary><b>pony town</b></summary>
         <br>
         Put your content for the second section here.
       </details>
