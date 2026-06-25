@@ -14,7 +14,7 @@
 
 <div align="center">
 <details>
-<summary><b>general information</b></summary>
+<summary><b>Introduction</b></summary>
 
 I'm 13 years old, my birthday is the 14th of december—10 days after Bungo Stray Dogs published
 
