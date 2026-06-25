@@ -29,7 +29,7 @@
         <summary><b>pony town</b></summary>
         <br>
         <ul>
-          <li>Cuddle&hug comfort, you're always welcome to come up to me—I may sometimes not speak
+          <li>Cuddle&hug comfort, you're always welcome to sit with me—I may sometimes not speak
           <li>I rarely interact first unless I'm sending you a crown or compliments for your pony
           <li>Interact with caution, I block freely even if it makes you upset
           <li>Anyone can interact, just keep yourself from romanticizing real life issues infront of me
