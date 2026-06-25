@@ -22,7 +22,6 @@
           <li>I'm 13 years old, my birthday is the 14th of december—10 days after Bungou Stray Dogs released
           <li>I'm diagnosed with autism spectrum disorder ( type / level 3 ), non-organic psycosis disorder, and I'm in the process of getting evaulated for other potential diagnoses
           <li>I have short-term memory loss, all of my memories are dreamlike making it difficult for me to differentiate or remember people and more
-          <li>Anyone can interact, just keep yourself from romanticizing real life issues infront of me
       </details>
     </td>
     <td width="50%" valign="top" align="left">
@@ -30,9 +29,9 @@
         <summary><b>pony town</b></summary>
         <br>
         <ul>
-          <li>Cuddle&hug comfort, you're always welcome to come up to me, though I may not speak
-          <li>I'm diagnosed with autism spectrum disorder ( type / level 3 ), non-organic psycosis disorder, and I'm in the process of getting evaulated for other potential diagnoses
-          <li>I have short-term memory loss, all of my memories are dreamlike making it difficult for me to differentiate or remember people and more
+          <li>Cuddle&hug comfort, you're always welcome to come up to me—I may sometimes not speak
+          <li>I rarely interact first unless I'm sending you a crown or compliments for your pony
+          <li>Interact with caution, I block freely even if it makes you upset
           <li>Anyone can interact, just keep yourself from romanticizing real life issues infront of me
       </details>
     </td>
