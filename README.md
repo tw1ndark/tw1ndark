@@ -1,4 +1,8 @@
 <p align="center">
+  <img width="300" height="48" alt="tumblr_86929122257530a095a5c695f4b38da4_36bf007f_500" src="https://github.com/user-attachments/assets/13822e67-bceb-45ed-a5e0-bd20ce8d8c02" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=tw1ndark&style=for-the-badge&label=souls+adrift&color=lightgrey" />
 </p> 
 
