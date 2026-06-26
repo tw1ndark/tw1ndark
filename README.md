@@ -1,11 +1,9 @@
 <p align="center">
-   <a href="https://github.com/KaleidoscopiqueNovelty">
-  <img src="https://github.com/user-attachments/assets/13822e67-bceb-45ed-a5e0-bd20ce8d8c02" width="200" height="28>
-</a>
+<img src="https://github.com/user-attachments/assets/13822e67-bceb-45ed-a5e0-bd20ce8d8c02" width="200" height="28>
 </p>
-
+     
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tw1ndark&style=for-the-badge&label=souls+adrift&color=lightgrey" />
+  <img src="https://komarev.com/ghpvc/?username=tw1ndark&style=for-the-badge&label=souls+adrift&color=lightgrey"/>
 </p> 
 
 <p align="center">
