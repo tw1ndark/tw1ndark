@@ -20,9 +20,7 @@
 <details>
 <summary><b>Introduction</b></summary>
 
-I'm 13 years old, my birthday is the 14th of december—10 days after Bungo Stray Dogs was published
-
-I'm on the aspec and agender
+I'm 13 years old, my birthday is the 14th of december—10 days after Bungo Stray Dogs was published. I'm also on the aspec, aroace and agender
 
 I'm diagnosed with autism spectrum disorder ( type / level 3 ), non-organic psychosis disorder, and I'm in the process of getting evaluated for other potential disorders
 
