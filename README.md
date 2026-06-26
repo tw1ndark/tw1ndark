@@ -18,7 +18,7 @@
 
 <div align="center">
 <details>
-<summary><b>Introduction to ********</b></summary>
+<summary><b>Introduction to Eleanore</b></summary>
      
 I am 13 years old, my birthday is on December 14th—exactly 10 days after Bungo Stray Dogs was first published. I identify as aroace and agender
 
