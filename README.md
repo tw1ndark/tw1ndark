@@ -28,8 +28,6 @@ I have been diagnosed with autism spectrum disorder (level 3) and a non-organic 
 ---
 #### before you interact ( disclaimer )
 
-I generally don't understand or maintain relationships well, don't take it personally as I just have an innate discomfort around people
-
-I have a very low social battery unless my fixation was mentioned. I'm not very hyper nor energetic so I apologise if I seem dry or not as active
+I generally don't understand or maintain relationships well, so please don't take it personally as I just have an innate discomfort around people; I have a very low social battery unless my fixation was mentioned, and since I'm not very hyper nor energetic, I apologise if I seem dry or not as invested
 </details>
 </div>
