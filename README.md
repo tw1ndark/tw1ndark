@@ -1,5 +1,7 @@
 <p align="center">
-  <img width="300" height="48" alt="tumblr_86929122257530a095a5c695f4b38da4_36bf007f_500" src="https://github.com/user-attachments/assets/13822e67-bceb-45ed-a5e0-bd20ce8d8c02" />
+   <a href="https://github.com/KaleidoscopiqueNovelty">
+  <img src="https://github.com/user-attachments/assets/13822e67-bceb-45ed-a5e0-bd20ce8d8c02" alt="Visit Google" width="200">
+</a>
 </p>
 
 <p align="center">
